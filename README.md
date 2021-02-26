@@ -1,4 +1,4 @@
-# 1. oauth-2.0-getting-started
+## 1. oauth-2.0-getting-started
 [OAtuh2.0 Community](https://oauth.net/2/)<br>
 [RFC Framework](https://tools.ietf.org/html/rfc6749)<br>
 [AuthO Docs](https://auth0.com/docs/protocols/protocol-oauth2)
@@ -15,3 +15,9 @@
 [Google OAuth Playground](https://developers.google.com/oauthplayground/)<br>
 ### 2.4. Paypal for Developers
 [Paypal developers](https://developer.paypal.com/home)
+## Titles
+Mastering OAuth 2.0 Create powerful applications to interact with popular service providers such as Facebook, Google, Twitter, and more by leveraging the OAuth 2.0 Authorization Framework by Charles B.<br>
+Programming Social Applications Building Viral Experiences with OpenSocial, OAuth, OpenID, and Distributed Web Frameworks by Jonathan LeBlanc<br>
+OAuth 2.0 Cookbook by Nascimento, Adolfo Eloy<br>
+Solving Identity Management In Modern Applications Demystifying OAuth 2.0, OpenID Connect, And SAML 2.0 by Yvonne Wilson, Abhishek Hingnikar<br>
+Getting Started with OAuth 2.0 by Ryan Boyd
