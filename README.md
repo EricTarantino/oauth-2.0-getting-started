@@ -15,7 +15,7 @@
 [Google OAuth Playground](https://developers.google.com/oauthplayground/)<br>
 ### 2.4. Paypal for Developers
 [Paypal developers](https://developer.paypal.com/home)
-## 3. Titles
+## 3. Books
 Mastering OAuth 2.0 Create powerful applications to interact with popular service providers such as Facebook, Google, Twitter, and more by leveraging the OAuth 2.0 Authorization Framework by Charles B.<br><br>
 Programming Social Applications Building Viral Experiences with OpenSocial, OAuth, OpenID, and Distributed Web Frameworks by Jonathan LeBlanc<br><br>
 OAuth 2.0 Cookbook by Nascimento, Adolfo Eloy<br><br>
