@@ -12,3 +12,4 @@
 ### 2.3. Google developers
 [Google OAuth](https://developers.google.com/identity/protocols/oauth2)<br>
 [Google developers console](https://console.developers.google.com/)<br>
+[Google OAuth Playground](https://developers.google.com/oauthplayground/)<br>
