@@ -13,3 +13,5 @@
 [Google OAuth](https://developers.google.com/identity/protocols/oauth2)<br>
 [Google developers console](https://console.developers.google.com/)<br>
 [Google OAuth Playground](https://developers.google.com/oauthplayground/)<br>
+### 2.4. Paypal for Developers
+[Paypal developers](https://developer.paypal.com/home)
