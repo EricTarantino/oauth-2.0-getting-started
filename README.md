@@ -9,3 +9,6 @@
 [Url envoder](https://www.urlencoder.org/)<br><br>
 ### 2.2. LinkedIn for developers
 [LinkedIn](https://www.linkedin.com/developers/)
+### 2.3. Google developers
+[Google OAuth](https://developers.google.com/identity/protocols/oauth2)<br>
+[Google developers console](https://console.developers.google.com/)<br>
